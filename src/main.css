@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+body{
+    min-height: 100vh;
+    background-image: linear-gradient( #FF512F, #F09819);
+    font-family: 'Space Grotesk';
+    background-repeat: no-repeat;
+    object-fit: fill;
+}
+
+
+@theme {
+    --color-reef: #BCFDB0;
+    --color-vida-loca: #3CBC24;
+}
